@@ -1,4 +1,5 @@
 MAD Project Idea
+
 Smart Flashcards for Fun & Easy Language Learning
 Yatin Bisht – [2024-B-26102006A]
 Problem Statement
